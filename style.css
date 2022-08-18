@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+main{
+    margin: 20px;
+}
+footer{
+    background: #444;
+    color: #eee;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
